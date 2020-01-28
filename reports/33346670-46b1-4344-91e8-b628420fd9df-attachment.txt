@@ -1,0 +1,12 @@
+[32mINFO    [0m root:base_page.py:21 >>>>>>>>>>>>>>> INITIALIZATION NEW DRIVER <<<<<<<<<<<<<<<
+[32mINFO    [0m root:base_page.py:25 Open url: https://doc-stg.telemed.care/cabinet
+[32mINFO    [0m root:base_page.py:36 Get elements ('css selector', 'app-appointment-item')
+[32mINFO    [0m root:base_page.py:42 Send keys "Тошнота" to ('css selector', '.wrapper-symptoms input')
+[32mINFO    [0m root:base_page.py:58 Click to element ('css selector', 'div.ng-option-marked')
+[32mINFO    [0m root:base_page.py:30 Get element ('css selector', 'div.conclusion-item')
+[32mINFO    [0m root:base_page.py:81 Checking is exist element ('css selector', 'div.conclusion-item') (Visible)
+[32mINFO    [0m root:base_page.py:36 Get elements ('css selector', 'div.conclusion-item')
+[32mINFO    [0m root:base_page.py:36 Get elements ('css selector', 'div.conclusion-icon')
+[32mINFO    [0m root:base_page.py:58 Click to element ('css selector', 'div.icon-delete')
+[32mINFO    [0m root:base_page.py:30 Get element ('css selector', 'div.icon-delete')
+[32mINFO    [0m root:base_page.py:78 Checking is exist element ('css selector', 'div.icon-delete') (Not visible)

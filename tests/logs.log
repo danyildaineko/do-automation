@@ -1,0 +1,21 @@
+INFO:root:>>>>>>>>>>>>>>> INITIALIZATION NEW DRIVER <<<<<<<<<<<<<<<
+INFO:root:Open url: https://doc-stg.telemed.care/cabinet
+INFO:root:Send keys "930343159" to ('css selector', '#mat-input-0')
+INFO:root:Click to element ('css selector', '.custom-checkbox')
+INFO:root:Click to element ('css selector', 'button.btn-continue')
+INFO:root:Send keys "" to ('css selector', 'input#code6')
+INFO:root:Get element ('css selector', 'div.doctor-name')
+INFO:root:>>>>>>>>>>>>>>> INITIALIZATION NEW DRIVER <<<<<<<<<<<<<<<
+INFO:root:Open url: https://doc-stg.telemed.care/cabinet
+INFO:root:Click to element ('css selector', 'button.btn-start')
+INFO:root:Click to element ('css selector', 'button.btn-start-record')
+INFO:root:Click to element ('css selector', 'button.btn-stop-record')
+INFO:root:Click to element ('css selector', 'button.btn-play-record')
+INFO:root:Click to element ('css selector', 'div.slide-footer.ng-star-inserted .btn-border:nth-child(1)')
+INFO:root:Get element ('css selector', '.modal-body li.chanel-video.offline')
+INFO:root:Checking is exist element ('css selector', '.modal-body li.chanel-video.offline') (Visible)
+INFO:root:True
+INFO:root:Click to element ('css selector', 'app-devices-checking button.btn-start')
+INFO:root:>>>>>>>>>>>>>>> INITIALIZATION NEW DRIVER <<<<<<<<<<<<<<<
+INFO:root:Open url: https://doc-stg.telemed.care/cabinet
+INFO:root:Get elements ('css selector', 'app-appointment-item')

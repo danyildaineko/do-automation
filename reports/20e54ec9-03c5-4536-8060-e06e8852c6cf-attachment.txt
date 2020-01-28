@@ -1,0 +1,6 @@
+[32mINFO    [0m root:base_page.py:21 >>>>>>>>>>>>>>> INITIALIZATION NEW DRIVER <<<<<<<<<<<<<<<
+[32mINFO    [0m root:base_page.py:25 Open url: https://doc-stg.telemed.care/cabinet
+[32mINFO    [0m root:base_page.py:36 Get elements ('css selector', 'app-appointment-item')
+[32mINFO    [0m root:base_page.py:58 Click to element ('css selector', 'button.save-appointment')
+[32mINFO    [0m root:base_page.py:30 Get element ('css selector', '#toast-container div')
+[32mINFO    [0m root:base_page.py:81 Checking is exist element ('css selector', '#toast-container div') (Visible)

@@ -1,0 +1,19 @@
+[32mINFO    [0m root:base_page.py:21 >>>>>>>>>>>>>>> INITIALIZATION NEW DRIVER <<<<<<<<<<<<<<<
+[32mINFO    [0m root:base_page.py:26 Open url: https://doc-stg.telemed.care/cabinet
+[32mINFO    [0m root:base_page.py:43 Send keys "930343159" to ('css selector', '#mat-input-0')
+[32mINFO    [0m root:base_page.py:59 Click to element ('css selector', '.custom-checkbox')
+[32mINFO    [0m root:base_page.py:59 Click to element ('css selector', 'button.btn-continue')
+[32mINFO    [0m root:base_page.py:43 Send keys "" to ('css selector', 'input#code6')
+[32mINFO    [0m root:base_page.py:31 Get element ('css selector', 'div.doctor-name')
+[32mINFO    [0m root:base_page.py:21 >>>>>>>>>>>>>>> INITIALIZATION NEW DRIVER <<<<<<<<<<<<<<<
+[32mINFO    [0m root:base_page.py:26 Open url: https://doc-stg.telemed.care/cabinet
+[32mINFO    [0m root:base_page.py:37 Get elements ('css selector', 'app-appointment-item')
+[32mINFO    [0m root:base_page.py:43 Send keys "Тошнота" to ('css selector', '.wrapper-symptoms input')
+[32mINFO    [0m root:base_page.py:59 Click to element ('css selector', 'div.ng-option-marked')
+[32mINFO    [0m root:base_page.py:31 Get element ('css selector', 'div.conclusion-item')
+[32mINFO    [0m root:base_page.py:82 Checking is exist element ('css selector', 'div.conclusion-item') (Visible)
+[32mINFO    [0m root:base_page.py:37 Get elements ('css selector', 'div.conclusion-item')
+[32mINFO    [0m root:base_page.py:37 Get elements ('css selector', 'div.conclusion-icon')
+[32mINFO    [0m root:base_page.py:37 Get elements ('css selector', 'div.conclusion-item')
+[32mINFO    [0m root:base_page.py:37 Get elements ('css selector', 'div.bg-no-active')
+[32mINFO    [0m root:base_page.py:59 Click to element ('css selector', 'div.icon-delete')

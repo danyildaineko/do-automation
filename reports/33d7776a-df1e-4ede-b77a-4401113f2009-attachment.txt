@@ -1,0 +1,2 @@
+[32mINFO    [0m root:base_page.py:21 >>>>>>>>>>>>>>> INITIALIZATION NEW DRIVER <<<<<<<<<<<<<<<
+[32mINFO    [0m root:base_page.py:45 Send keys "930343159" to ('css selector', '#mat-input-0')

@@ -1,0 +1,14 @@
+[32mINFO    [0m root:base_page.py:21 >>>>>>>>>>>>>>> INITIALIZATION NEW DRIVER <<<<<<<<<<<<<<<
+[32mINFO    [0m root:base_page.py:25 Open url: https://doc-stg.telemed.care/cabinet
+[32mINFO    [0m root:base_page.py:42 Send keys "930343159" to ('css selector', '#mat-input-0')
+[32mINFO    [0m root:base_page.py:58 Click to element ('css selector', '.custom-checkbox')
+[32mINFO    [0m root:base_page.py:58 Click to element ('css selector', 'button.btn-continue')
+[32mINFO    [0m root:base_page.py:42 Send keys "" to ('css selector', 'input#code6')
+[32mINFO    [0m root:base_page.py:30 Get element ('css selector', 'div.doctor-name')
+[32mINFO    [0m root:base_page.py:21 >>>>>>>>>>>>>>> INITIALIZATION NEW DRIVER <<<<<<<<<<<<<<<
+[32mINFO    [0m root:base_page.py:25 Open url: https://doc-stg.telemed.care/cabinet
+[32mINFO    [0m root:base_page.py:58 Click to element ('css selector', 'button.btn-start')
+[32mINFO    [0m root:base_page.py:58 Click to element ('css selector', 'button.btn-start-record')
+[32mINFO    [0m root:base_page.py:58 Click to element ('css selector', 'button.btn-stop-record')
+[32mINFO    [0m root:base_page.py:58 Click to element ('css selector', 'button.btn-play-record')
+[32mINFO    [0m root:base_page.py:58 Click to element ('css selector', 'div.slide-footer.ng-star-inserted .btn-border:nth-child(1)')
