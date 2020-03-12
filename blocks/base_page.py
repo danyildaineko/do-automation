@@ -19,7 +19,7 @@ class BasePage:
         self._driver = driver
         driver.implicitly_wait(3)
         logging.info(">>>>>>>>>>>>>>> INITIALIZATION NEW DRIVER <<<<<<<<<<<<<<<")
-        self.navigate_to('https://doc-stg.telemed.care/cabinet')
+        self.navigate_to('URL HERE')
 
     def navigate_to(self, url):
         logging.info("Open url: " + str(url))
